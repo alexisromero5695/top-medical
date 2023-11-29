@@ -2626,21 +2626,21 @@ a.dropdown-toggle::after {
 }
 
 .banner-header3 {
-    background: url('/construction/images/banner_top_medical02.png') no-repeat;
+    background: url('../images/banner_top_medical02.png') no-repeat;
     height: 500px;
     background-size: cover;
     background-position: center center;
 }
 
 .banner-header2 {
-    background: url('/construction/images/banner_top_medical01.png') no-repeat;
+    background: url('../images//banner_top_medical01.png') no-repeat;
     height: 500px;
     background-size: cover;
     background-position: center center;
 }
 
 .banner-header1 {
-    background: url('/construction/images/banner_top_medical.png') no-repeat;
+    background: url('../images/banner_top_medical.png') no-repeat;
     height: 500px;
     background-size: cover;
     background-position: center center;
